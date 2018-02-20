@@ -12,6 +12,8 @@ namespace TwoDecks
 {
     public partial class Form1 : Form
     {
+        Deck deck1;
+        Deck
         public Form1()
         {
             InitializeComponent();

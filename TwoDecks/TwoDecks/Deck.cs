@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwoDecks
 {
-    class Deck
+    public class Deck
     {
 
         //deck stores its cards in a list-but uses encapsulation
