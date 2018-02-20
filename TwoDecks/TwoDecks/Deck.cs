@@ -21,7 +21,7 @@ namespace TwoDecks
             {
                 for (int value = 1; value <= 13; value++)
                 {
-                    cards.Add(new Card((Suits)suit, (Values)value));
+                    cards.Add(new Card((Suit)suit, (Value)value));
                 }
             }
         }
